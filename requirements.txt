@@ -1,0 +1,9 @@
+matplotlib
+numpy
+pandas
+pyLDAvis
+requests-html
+scikit-learn
+seaborn
+spacy
+stop-words
